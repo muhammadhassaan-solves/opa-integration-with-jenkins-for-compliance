@@ -19,35 +19,27 @@ I integrated Open Policy Agent (OPA) with Jenkins to automate compliance checks 
 
 <p align="center">
 Jenkins Pipeline Setup <br />
-<img src="https://i.imgur.com/smCjUwT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/smCjUwT.jpeg" />
 <br />
 <br />
 OPA Setup using Docker <br/>
-<img src="https://i.imgur.com/P1YAZ4z.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P1YAZ4z.jpeg"/>
 <br />
 <br />
 Rego Policy Creation <br/>
-<img src="https://i.imgur.com/dbjBbfv.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dbjBbfv.jpeg"/>
 <br />
 <br />
 Jenkins Pipeline Integration with OPA <br/>
-<img src="https://i.imgur.com/htg4XeE.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/htg4XeE.jpeg" />
 <br />
 <br />
 Compliance Check Output <br/>
-<img src="https://i.imgur.com/uX5Wsr1.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uX5Wsr1.jpeg" />
 <br />
-<img src="https://i.imgur.com/8QcLWBb.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8QcLWBb.jpeg" />
 <br />
 
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
